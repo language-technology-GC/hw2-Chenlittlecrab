@@ -1,0 +1,13 @@
+2021-10-21 11:41:07 | INFO | fairseq_cli.preprocess | [ice.g] Dictionary: 40 types                                                         
+2021-10-21 11:41:08 | INFO | fairseq_cli.preprocess | [ice.g] train.ice.g: 800 sents, 5242 tokens, 0.0191% replaced by <unk>               
+2021-10-21 11:41:08 | INFO | fairseq_cli.preprocess | [ice.g] Dictionary: 40 types                                                         
+2021-10-21 11:41:08 | INFO | fairseq_cli.preprocess | [ice.g] dev.ice.g: 100 sents, 634 tokens, 0.0% replaced by <unk>                     
+2021-10-21 11:41:08 | INFO | fairseq_cli.preprocess | [ice.g] Dictionary: 40 types                                                         
+2021-10-21 11:41:08 | INFO | fairseq_cli.preprocess | [ice.g] test.ice.g: 100 sents, 667 tokens, 0.0% replaced by <unk>                    
+2021-10-21 11:41:08 | INFO | fairseq_cli.preprocess | [ice.p] Dictionary: 64 types                                                         
+2021-10-21 11:41:08 | INFO | fairseq_cli.preprocess | [ice.p] train.ice.p: 800 sents, 5376 tokens, 0.0558% replaced by <unk>               
+2021-10-21 11:41:08 | INFO | fairseq_cli.preprocess | [ice.p] Dictionary: 64 types                                                         
+2021-10-21 11:41:08 | INFO | fairseq_cli.preprocess | [ice.p] dev.ice.p: 100 sents, 652 tokens, 0.153% replaced by <unk>                   
+2021-10-21 11:41:08 | INFO | fairseq_cli.preprocess | [ice.p] Dictionary: 64 types                                                         
+2021-10-21 11:41:08 | INFO | fairseq_cli.preprocess | [ice.p] test.ice.p: 100 sents, 685 tokens, 0.292% replaced by <unk>   
+2021-10-21 11:41:08 | INFO | fairseq_cli.preprocess | Wrote preprocessed data to data-bin

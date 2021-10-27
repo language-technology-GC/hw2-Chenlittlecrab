@@ -26,7 +26,7 @@ def main(args: argparse.Namespace):
         if word1 != word2:
             counter +=1
     WER = counter / total
-    logging.info("WES: \t%.2f", WER)
+    logging.info("WER: %d", round(WER*100))
 
 if __name__ =="__main__":
     logging.basicConfig(level = "INFO", format = "%(levelname)s: %(message)s")
